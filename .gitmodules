@@ -1,0 +1,3 @@
+[submodule "student-management-ui"]
+	path = student-management-ui
+	url = ./student-management-ui
